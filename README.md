@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
+  <img src="https://i.ibb.co/GxZjCJV/04845cc8b78f.jpg" width="300" height="300">
+  <h1>⚡️Zeta⚡️</h1>
 </div>
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
